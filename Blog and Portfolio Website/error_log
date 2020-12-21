@@ -1,0 +1,40 @@
+[29-Jun-2020 08:40:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/qhtgllw9l7yu/public_html/Includes/DB.php:3
+Stack trace:
+#0 /home/qhtgllw9l7yu/public_html/Includes/DB.php(3): PDO->__construct('mysql:host = lo...', 'root', 'tommydon@01')
+#1 /home/qhtgllw9l7yu/public_html/Portfolio.php(1): require_once('/home/qhtgllw9l...')
+#2 {main}
+  thrown in /home/qhtgllw9l7yu/public_html/Includes/DB.php on line 3
+[29-Jun-2020 08:40:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/qhtgllw9l7yu/public_html/Includes/DB.php:3
+Stack trace:
+#0 /home/qhtgllw9l7yu/public_html/Includes/DB.php(3): PDO->__construct('mysql:host = lo...', 'root', 'tommydon@01')
+#1 /home/qhtgllw9l7yu/public_html/Portfolio.php(1): require_once('/home/qhtgllw9l...')
+#2 {main}
+  thrown in /home/qhtgllw9l7yu/public_html/Includes/DB.php on line 3
+[29-Jun-2020 08:40:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/qhtgllw9l7yu/public_html/Includes/DB.php:3
+Stack trace:
+#0 /home/qhtgllw9l7yu/public_html/Includes/DB.php(3): PDO->__construct('mysql:host = lo...', 'root', 'tommydon@01')
+#1 /home/qhtgllw9l7yu/public_html/Portfolio.php(1): require_once('/home/qhtgllw9l...')
+#2 {main}
+  thrown in /home/qhtgllw9l7yu/public_html/Includes/DB.php on line 3
+[29-Jun-2020 08:40:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/qhtgllw9l7yu/public_html/Includes/DB.php:3
+Stack trace:
+#0 /home/qhtgllw9l7yu/public_html/Includes/DB.php(3): PDO->__construct('mysql:host = lo...', 'root', 'tommydon@01')
+#1 /home/qhtgllw9l7yu/public_html/Blog.php(1): require_once('/home/qhtgllw9l...')
+#2 {main}
+  thrown in /home/qhtgllw9l7yu/public_html/Includes/DB.php on line 3
+[29-Jun-2020 08:43:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/qhtgllw9l7yu/public_html/Includes/DB.php:3
+Stack trace:
+#0 /home/qhtgllw9l7yu/public_html/Includes/DB.php(3): PDO->__construct('mysql:host = lo...', 'root', 'tommydon@01')
+#1 /home/qhtgllw9l7yu/public_html/Portfolio.php(1): require_once('/home/qhtgllw9l...')
+#2 {main}
+  thrown in /home/qhtgllw9l7yu/public_html/Includes/DB.php on line 3
+[29-Jun-2020 08:43:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/qhtgllw9l7yu/public_html/Includes/DB.php:3
+Stack trace:
+#0 /home/qhtgllw9l7yu/public_html/Includes/DB.php(3): PDO->__construct('mysql:host = lo...', 'root', 'tommydon@01')
+#1 /home/qhtgllw9l7yu/public_html/Portfolio.php(1): require_once('/home/qhtgllw9l...')
+#2 {main}
+  thrown in /home/qhtgllw9l7yu/public_html/Includes/DB.php on line 3
+[29-Jun-2020 09:48:23 UTC] PHP Notice:  Undefined index: Email in /home/qhtgllw9l7yu/public_html/Contact.php on line 6
+[29-Jun-2020 16:11:49 UTC] PHP Notice:  Undefined index: Email in /home/qhtgllw9l7yu/public_html/Contact.php on line 6
+[12-Jul-2020 10:12:38 UTC] PHP Notice:  Undefined index: Email in /home/qhtgllw9l7yu/public_html/Contact.php on line 6
+[12-Jul-2020 10:13:32 UTC] PHP Notice:  Undefined index: Email in /home/qhtgllw9l7yu/public_html/Contact.php on line 6

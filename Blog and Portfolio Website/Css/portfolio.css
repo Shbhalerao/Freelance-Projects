@@ -1,0 +1,75 @@
+.portfolioheader{
+  min-height: 580px;
+  width:100%;
+    background-image: linear-gradient(to right, #24C6DC , #514A9D);
+  }
+
+.portfolioheader .p-inner-div{
+  height: 350px;
+  width : 70%;
+  /* background-color: white; */
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
+
+.p-inner-div{
+ 
+  padding-top:150px;
+  font-family: Genuine;
+}
+
+
+
+@font-face {
+src: url(fonts/GENUINE.ttf);
+font-family: Genuine;
+}
+@font-face {
+src: url(fonts/Rebik-Bold.ttf);
+font-family: RubikB;
+  }
+
+@font-face {
+  src: url(fonts/Rubik-Light.ttf);
+  font-family: RubikL;
+}
+
+@font-face {
+  src: url(fonts/Rubik-Regular.ttf);
+  font-family: RubikR;
+}
+
+
+
+
+.Genuine{
+  font-family: Genuine;
+}
+
+.BangersR{
+ font-family: BangersR;
+}
+
+.EczarB{
+ font-family: EczarB;
+}
+
+.RubikL{
+  font-family: RubikL;
+}
+
+.RubikB{
+  font-family: RubikB;
+}
+
+.EczarR{
+  font-family: EczarR;
+}
+
+.RobotoB{
+  font-family: RobotoB;
+}

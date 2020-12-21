@@ -1,0 +1,181 @@
+
+.FieldInfo{
+    color: #343339;
+    font-family: RubikL;
+    font-size: 1.2em;
+  }
+.CommentBlock{
+  background-color:#F6F7F9;
+}
+
+.navbar{
+  min-height: 80px;
+
+}
+
+.headerimg{
+  background-image: linear-gradient(to right, #24C6DC , #514A9D);
+  min-height: 500px;
+
+
+}
+
+.headertext{
+   font-family: 'open sans',sans-serif;
+   padding-top: 100px;
+   padding-bottom: 20px;
+   justify-content: 'center';
+
+}
+@font-face {
+src: url(fonts/GENUINE.ttf);
+font-family: Genuine;
+}
+@font-face {
+  src: url(fonts/Bangers-Regular.ttf);
+  font-family: BangersR;
+}
+
+@font-face {
+  src: url(fonts/Eczar-Bold.ttf);
+  font-family: EczarB;
+}
+
+@font-face {
+  src: url(fonts/Eczar-Regular.ttf);
+  font-family: EczarR;
+}
+
+@font-face {
+src: url(fonts/Rebik-Bold.ttf);
+font-family: RubikB;
+  }
+
+@font-face {
+  src: url(fonts/Rubik-Light.ttf);
+  font-family: RubikL;
+}
+
+@font-face {
+  src: url(fonts/Rubik-Regular.ttf);
+  font-family: RubikR;
+}
+
+@font-face {
+  src: url(fonts/Eczar-SemiBold.ttf);
+  font-family: EczarSB;
+
+}
+@font-face {
+  src: url(fonts/Roboto-Bold.ttf);
+  font-family: RobotoB;
+
+}
+@font-face {
+  src: url(fonts/Roboto-BoldItalic.ttf);
+  font-family: RobotoBI;
+
+}
+@font-face {
+  src: url(fonts/Boogaloo-Regular.ttf);
+  font-family: BoogalooR;
+
+}
+
+
+
+.navbar{
+  min-height: 80px;
+
+}
+
+.outer-div{
+  height: 500px;
+  width:100%;
+  background: url(Image/Blog2.jpg);
+
+}
+
+.outer-div .inner-div{
+  height: 300px;
+  width : 70%;
+  /* background-color: white; */
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+
+}
+
+.inner-div{
+  padding-left:px;
+  padding-top: px;
+}
+
+.Genuine{
+  font-family: Genuine;
+}
+
+.BangersR{
+ font-family: BangersR;
+}
+
+.EczarB{
+ font-family: EczarB;
+}
+
+.RubikL{
+  font-family: RubikL;
+}
+
+.RubikB{
+  font-family: RubikB;
+}
+
+.EczarR{
+  font-family: EczarR;
+}
+
+.RobotoB{
+  font-family: RobotoB;
+}
+
+
+.button1 {
+
+  color: black;
+  border: 2px solid transparent ;
+  border-image: linear-gradient(to right, #1a8cff , #0066cc);
+  border-image-slice: 1;
+  font-family: BoogalooR;
+}
+
+.button1:hover {
+  background-image: linear-gradient(to right, #1a8cff , #0066cc);
+  color: white;
+  font-family: BoogalooR;
+}
+
+.button2 {
+
+  color: black;
+  border: 2px solid transparent ;
+  /* border-radius: 15px; */
+  border-image: linear-gradient(to right, #1a8cff , #0066cc);
+  border-image-slice: 1;
+  font-family: BoogalooR;
+}
+
+.button2:hover {
+
+  background-image: linear-gradient(to right, #1a8cff , #0066cc);
+  color: white;
+  font-family: BoogalooR;
+}
+
+.underline{
+  text-decoration: underline;
+  text-decoration-color:#AAAAAA;
+}
