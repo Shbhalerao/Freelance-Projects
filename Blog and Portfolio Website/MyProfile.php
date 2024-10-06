@@ -69,7 +69,7 @@ if (strlen($AHeadline)>30) {
   <div style="height:10px; background:#B22222"></div>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-      <a href="#" class="navbar-brand"> JAZEBAKRAM.COM</a>
+      <a href="#" class="navbar-brand"> BHALERAOSHUBHAM.com</a>
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarcollapseCMS">
         <span class="navbar-toggler-icon"></span>
       </button>
